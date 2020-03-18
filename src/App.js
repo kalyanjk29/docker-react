@@ -21,7 +21,7 @@ function App() {
         href = "https://reactjs.org"
         target = "_blank"
         rel = "noopener noreferrer" >
-        on feature <
+        Learn React Feature <
         /a> < /
         header > <
         /div>
